@@ -3,13 +3,12 @@ body {
 	height: 100%;
 	width: 100%;
 	margin: 0 auto;
+	background-color: grey;
 }
 .mainDiv {
 	display: flex;
 	flex-direction: column;
-	background-color: white;
 	margin: 0 auto;
-	border: solid red;
 	border-radius: 1px;
 }
 
@@ -20,20 +19,14 @@ body {
 	align-items: center;
 	flex-direction: column;
 	font-size: 24px;
-	border: solid red;
 }
-
 .heading {
-	display: flex;
 	font-size: 16px;
 	margin: 20px;
-	border: solid red;
 }
 .para {
-	display: flex;
 	font-size: 12px;
 	margin: 20px;
-	border: solid red;
 }
 .emptySpace {
 	display: flex;
@@ -44,7 +37,7 @@ body {
 	flex-direction: column;
 	margin: 0 auto;
 	border-radius: 5px;
-	border: solid grey;
+	border: solid white;
 }
 .topofCalc {
 	display: flex;
@@ -128,6 +121,114 @@ body {
 	justify-content: center;
 }
 #divide {
+	width: 20.1%;
+	height: 15%;
+	border: 2px;
+	border-radius: 12px;
+	margin: 0 auto;
+	background-color: lightgray;
+	justify-content: center;
+}
+#four {
+	width: 20.1%;
+	height: 15%;
+	border: 2px;
+	border-radius: 12px;
+	margin: 0 auto;
+	background-color: lightgray;
+	justify-content: center;
+}
+#five {
+	width: 20.1%;
+	height: 15%;
+	border: 2px;
+	border-radius: 12px;
+	margin: 0 auto;
+	background-color: lightgray;
+	justify-content: center;
+}
+#six {
+	width: 20.1%;
+	height: 15%;
+	border: 2px;
+	border-radius: 12px;
+	margin: 0 auto;
+	background-color: lightgray;
+	justify-content: center;
+}
+#multiply {
+	width: 20.1%;
+	height: 15%;
+	border: 2px;
+	border-radius: 12px;
+	margin: 0 auto;
+	background-color: lightgray;
+	justify-content: center;
+}
+#one {
+	width: 20.1%;
+	height: 15%;
+	border: 2px;
+	border-radius: 12px;
+	margin: 0 auto;
+	background-color: lightgray;
+	justify-content: center;
+}
+#two {
+	width: 20.1%;
+	height: 15%;
+	border: 2px;
+	border-radius: 12px;
+	margin: 0 auto;
+	background-color: lightgray;
+	justify-content: center;
+}
+#three {
+	width: 20.1%;
+	height: 15%;
+	border: 2px;
+	border-radius: 12px;
+	margin: 0 auto;
+	background-color: lightgray;
+	justify-content: center;
+}
+#minus {
+	width: 20.1%;
+	height: 15%;
+	border: 2px;
+	border-radius: 12px;
+	margin: 0 auto;
+	background-color: lightgray;
+	justify-content: center;
+}
+#zero {
+	width: 20.1%;
+	height: 15%;
+	border: 2px;
+	border-radius: 12px;
+	margin: 0 auto;
+	background-color: lightgray;
+	justify-content: center;
+}
+#period {
+	width: 20.1%;
+	height: 15%;
+	border: 2px;
+	border-radius: 12px;
+	margin: 0 auto;
+	background-color: lightgray;
+	justify-content: center;
+}
+#equals {
+	width: 20.1%;
+	height: 15%;
+	border: 2px;
+	border-radius: 12px;
+	margin: 0 auto;
+	background-color: lightgray;
+	justify-content: center;
+}
+#plus {
 	width: 20.1%;
 	height: 15%;
 	border: 2px;
