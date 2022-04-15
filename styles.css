@@ -49,7 +49,7 @@ body {
 .topofCalc {
 	display: flex;
 	width: 400px;
-	height: 50px;
+	height: 15%;
 	margin: 0 auto;
 }
 .outPutField {
@@ -66,47 +66,73 @@ body {
 	display: flex;
 	height: 400px;
 	width: 400px;
+	flex-flow: row wrap;
 }
 #parenthesesOpen {
-	display: flex;
 	width: 20%;
-	height: 50px;
+	height: 15%;
 	border: 2px;
 	border-radius: 12px;
 	margin: 0 auto;
 	background-color: lightgray;
 }
 #parenthesesClose {
-	display: flex;
 	width: 20%;
-	height: 50px;
+	height: 15%;
 	border: 2px;
 	border-radius: 12px;
 	margin: 0 auto;
 	background-color: lightgray;
 }
 #percent {
-	display: flex;
 	width: 20%;
-	height: 50px;
+	height: 15%;
 	border: 2px;
 	border-radius: 12px;
-
 	margin: 0 auto;
 	background-color: lightgray;
 }
 #clearOutPut {
-	display: flex;
 	width: 20%;
-	height: 50px;
+	height: 15%;
 	border: 2px;
 	border-radius: 12px;
-
 	margin: 0 auto;
 	background-color: lightgray;
 }
-.break {
-	display: flex;
-	flex-basis: 100%;
-	height: 0;
+#seven {
+	width: 20.1%;
+	height: 15%;
+	border: 2px;
+	border-radius: 12px;
+	margin: 0 auto;
+	background-color: lightgray;
+	justify-content: center;
+}
+#eight {
+	width: 20.1%;
+	height: 15%;
+	border: 2px;
+	border-radius: 12px;
+	margin: 0 auto;
+	background-color: lightgray;
+	justify-content: center;
+}
+#nine {
+	width: 20.1%;
+	height: 15%;
+	border: 2px;
+	border-radius: 12px;
+	margin: 0 auto;
+	background-color: lightgray;
+	justify-content: center;
+}
+#divide {
+	width: 20.1%;
+	height: 15%;
+	border: 2px;
+	border-radius: 12px;
+	margin: 0 auto;
+	background-color: lightgray;
+	justify-content: center;
 }
