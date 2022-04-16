@@ -50,10 +50,11 @@ body {
 	height: 50px;
 	width: 500px;
 	border: solid lightgrey;
-	justify-content: center;
-	align-self: center;
+	justify-content: flex-end;
+	align-items: flex-end;
 	margin: 0 auto;
 	margin-top: 5px;
+	font-size: 28px;
 }
 .bottomOfCalc {
 	display: flex;
@@ -68,6 +69,7 @@ body {
 	border-radius: 12px;
 	margin: 0 auto;
 	background-color: lightgray;
+	font-size: 28px;
 }
 #parenthesesClose {
 	width: 20%;
@@ -76,7 +78,75 @@ body {
 	border-radius: 12px;
 	margin: 0 auto;
 	background-color: lightgray;
+	font-size: 28px;
 }
+#percent:hover {
+	background-color: darkblue;
+}
+#percent:hover {
+	background-color: darkblue;
+}
+#zero:hover {
+	background-color: darkblue;
+}
+#period:hover {
+	background-color: darkblue;
+}
+#one:hover {
+	background-color: darkblue;
+}
+#two:hover {
+	background-color: darkblue;
+}
+#three:hover {
+	background-color: darkblue;
+}
+#four:hover {
+	background-color: darkblue;
+}
+#five:hover {
+	background-color: darkblue;
+}
+#six:hover {
+	background-color: darkblue;
+}
+#seven:hover {
+	background-color: darkblue;
+}
+#eight:hover {
+	background-color: darkblue;
+}
+#nine:hover {
+	background-color: darkblue;
+}
+#equals:hover {
+	background-color: darkblue;
+}
+#plus:hover {
+	background-color: darkblue;
+}
+#multiply:hover {
+	background-color: darkblue;
+}
+#divide:hover {
+	background-color: darkblue;
+}
+#clearOutPut:hover {
+	background-color: darkblue;
+}
+#minus:hover {
+	background-color: darkblue;
+}
+#parenthesesOpen:hover {
+	background-color: darkblue;
+}
+#parenthesesClose:hover {
+	background-color: darkblue;
+}
+#percent:hover {
+	background-color: darkblue;
+}
+
 #percent {
 	width: 20%;
 	height: 15%;
@@ -84,6 +154,7 @@ body {
 	border-radius: 12px;
 	margin: 0 auto;
 	background-color: lightgray;
+	font-size: 28px;
 }
 #clearOutPut {
 	width: 20%;
@@ -92,6 +163,7 @@ body {
 	border-radius: 12px;
 	margin: 0 auto;
 	background-color: lightgray;
+	font-size: 28px;
 }
 #seven {
 	width: 20.1%;
@@ -101,6 +173,7 @@ body {
 	margin: 0 auto;
 	background-color: lightgray;
 	justify-content: center;
+	font-size: 28px;
 }
 #eight {
 	width: 20.1%;
@@ -110,6 +183,7 @@ body {
 	margin: 0 auto;
 	background-color: lightgray;
 	justify-content: center;
+	font-size: 28px;
 }
 #nine {
 	width: 20.1%;
@@ -119,6 +193,7 @@ body {
 	margin: 0 auto;
 	background-color: lightgray;
 	justify-content: center;
+	font-size: 28px;
 }
 #divide {
 	width: 20.1%;
@@ -128,6 +203,7 @@ body {
 	margin: 0 auto;
 	background-color: lightgray;
 	justify-content: center;
+	font-size: 28px;
 }
 #four {
 	width: 20.1%;
@@ -137,6 +213,7 @@ body {
 	margin: 0 auto;
 	background-color: lightgray;
 	justify-content: center;
+	font-size: 28px;
 }
 #five {
 	width: 20.1%;
@@ -146,6 +223,7 @@ body {
 	margin: 0 auto;
 	background-color: lightgray;
 	justify-content: center;
+	font-size: 28px;
 }
 #six {
 	width: 20.1%;
@@ -155,6 +233,7 @@ body {
 	margin: 0 auto;
 	background-color: lightgray;
 	justify-content: center;
+	font-size: 28px;
 }
 #multiply {
 	width: 20.1%;
@@ -164,6 +243,7 @@ body {
 	margin: 0 auto;
 	background-color: lightgray;
 	justify-content: center;
+	font-size: 28px;
 }
 #one {
 	width: 20.1%;
@@ -173,6 +253,7 @@ body {
 	margin: 0 auto;
 	background-color: lightgray;
 	justify-content: center;
+	font-size: 28px;
 }
 #two {
 	width: 20.1%;
@@ -182,6 +263,7 @@ body {
 	margin: 0 auto;
 	background-color: lightgray;
 	justify-content: center;
+	font-size: 28px;
 }
 #three {
 	width: 20.1%;
@@ -191,6 +273,7 @@ body {
 	margin: 0 auto;
 	background-color: lightgray;
 	justify-content: center;
+	font-size: 28px;
 }
 #minus {
 	width: 20.1%;
@@ -200,6 +283,7 @@ body {
 	margin: 0 auto;
 	background-color: lightgray;
 	justify-content: center;
+	font-size: 28px;
 }
 #zero {
 	width: 20.1%;
@@ -209,6 +293,7 @@ body {
 	margin: 0 auto;
 	background-color: lightgray;
 	justify-content: center;
+	font-size: 28px;
 }
 #period {
 	width: 20.1%;
@@ -218,6 +303,7 @@ body {
 	margin: 0 auto;
 	background-color: lightgray;
 	justify-content: center;
+	font-size: 28px;
 }
 #equals {
 	width: 20.1%;
@@ -227,6 +313,7 @@ body {
 	margin: 0 auto;
 	background-color: lightgray;
 	justify-content: center;
+	font-size: 28px;
 }
 #plus {
 	width: 20.1%;
@@ -236,4 +323,5 @@ body {
 	margin: 0 auto;
 	background-color: lightgray;
 	justify-content: center;
+	font-size: 28px;
 }
